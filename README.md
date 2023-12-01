@@ -1,16 +1,17 @@
 # snt_test_case
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Home Page
 
-A few resources to get you started if this is your first Flutter project:
+![home](https://github.com/YunusGUNEYSU/snt_test_case_weather_app/assets/39588697/4fe29e3a-d8b3-4c47-b240-f3ba463a20f0),
+![home_light](https://github.com/YunusGUNEYSU/snt_test_case_weather_app/assets/39588697/e5fd58f7-98c9-46c0-9958-e7120d87b134)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Settings Page
+![settings](https://github.com/YunusGUNEYSU/snt_test_case_weather_app/assets/39588697/30b81f50-5443-4512-8092-b6e8c4b6e095)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Search
+![search](https://github.com/YunusGUNEYSU/snt_test_case_weather_app/assets/39588697/7ce4bcfb-282f-4b0b-8889-599b26202729)
+
+
+
